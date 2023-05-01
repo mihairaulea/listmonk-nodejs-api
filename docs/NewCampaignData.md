@@ -1,0 +1,31 @@
+# Listmonk.NewCampaignData
+
+## Properties
+
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**id** | **Number** |  | [optional] 
+**createdAt** | **String** |  | [optional] 
+**updatedAt** | **String** |  | [optional] 
+**views** | **Number** |  | [optional] 
+**clicks** | **Number** |  | [optional] 
+**bounces** | **Number** |  | [optional] 
+**lists** | [**[BounceDataResultsInnerCampaign]**](BounceDataResultsInnerCampaign.md) |  | [optional] 
+**startedAt** | **String** |  | [optional] 
+**toSend** | **Number** |  | [optional] 
+**sent** | **Number** |  | [optional] 
+**uuid** | **String** |  | [optional] 
+**type** | **String** |  | [optional] 
+**name** | **String** |  | [optional] 
+**subject** | **String** |  | [optional] 
+**fromEmail** | **String** |  | [optional] 
+**body** | **String** |  | [optional] 
+**altbody** | **String** |  | [optional] 
+**sendAt** | **String** |  | [optional] 
+**status** | **String** |  | [optional] 
+**contentType** | **String** |  | [optional] 
+**tags** | **[String]** |  | [optional] 
+**templateId** | **Number** |  | [optional] 
+**messenger** | **String** |  | [optional] 
+
+
